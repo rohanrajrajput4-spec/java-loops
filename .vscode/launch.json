@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "firdt",
+            "request": "launch",
+            "mainClass": "condition.firdt",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "condition.Calculator",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "helo",
+            "request": "launch",
+            "mainClass": "SwitchStatement.helo",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "CaseCheck",
+            "request": "launch",
+            "mainClass": "CaseCheck",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "NumberCheck",
+            "request": "launch",
+            "mainClass": "condition.NumberCheck",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "anshrate",
+            "request": "launch",
+            "mainClass": "anshrate",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "function.Swap",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "function.Sum",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Stringexample",
+            "request": "launch",
+            "mainClass": "function.Stringexample",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "function.Shadowing",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "function.Scope",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Question",
+            "request": "launch",
+            "mainClass": "function.Question",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Passingexample",
+            "request": "launch",
+            "mainClass": "function.Passingexample",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "function.Overloading",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "function.main",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "function.Greeting",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "changevalue",
+            "request": "launch",
+            "mainClass": "function.changevalue",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Fruit",
+            "request": "launch",
+            "mainClass": "SwitchStatement.Fruit",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "condition.Reverse",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "condition.Fibo",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Largestno",
+            "request": "launch",
+            "mainClass": "condition.Largestno",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "condition.dowhile",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Roll",
+            "request": "launch",
+            "mainClass": "Roll",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "AlphabetString",
+            "request": "launch",
+            "mainClass": "AlphabetString",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse",
+            "request": "launch",
+            "mainClass": "Ifelse",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Gpt",
+            "request": "launch",
+            "mainClass": "Gpt",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Cross",
+            "request": "launch",
+            "mainClass": "Cross",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "Aphabet",
+            "request": "launch",
+            "mainClass": "Aphabet",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "CountNums",
+            "request": "launch",
+            "mainClass": "condition.CountNums",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "CaseCheck",
+            "request": "launch",
+            "mainClass": "condition.CaseCheck",
+            "projectName": "JAVA_27984809"
+        },
+        {
+            "type": "java",
+            "name": "helo",
+            "request": "launch",
+            "mainClass": "SwitchStatement.helo",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AlphabetString",
+            "request": "launch",
+            "mainClass": "AlphabetString",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Aphabet",
+            "request": "launch",
+            "mainClass": "Aphabet",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Cross",
+            "request": "launch",
+            "mainClass": "Cross",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Forloop",
+            "request": "launch",
+            "mainClass": "Forloop",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Gpt",
+            "request": "launch",
+            "mainClass": "Gpt",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "IfElseIfExample",
+            "request": "launch",
+            "mainClass": "IfElseIfExample",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse",
+            "request": "launch",
+            "mainClass": "Ifelse",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Newsum",
+            "request": "launch",
+            "mainClass": "Newsum",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Roll",
+            "request": "launch",
+            "mainClass": "Roll",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Fruit",
+            "request": "launch",
+            "mainClass": "SwitchStatement.Fruit",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "NestedSwitch",
+            "request": "launch",
+            "mainClass": "SwitchStatement.NestedSwitch",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "SwitchDay",
+            "request": "launch",
+            "mainClass": "SwitchStatement.SwitchDay",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "anshrate",
+            "request": "launch",
+            "mainClass": "anshrate",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "condition.Calculator",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "CaseCheck",
+            "request": "launch",
+            "mainClass": "condition.CaseCheck",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "CountNums",
+            "request": "launch",
+            "mainClass": "condition.CountNums",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "condition.Fibo",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "condition.Largest",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "NoInputLargest",
+            "request": "launch",
+            "mainClass": "condition.NoInputLargest",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "NumberCheck",
+            "request": "launch",
+            "mainClass": "condition.NumberCheck",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "condition.Reverse",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "condition.dowhile",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "firdt",
+            "request": "launch",
+            "mainClass": "condition.firdt",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "condition.ifelse",
+            "projectName": "JAVA_c09cc71a"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "JAVA_c09cc71a"
+        }
+    ]
+}
